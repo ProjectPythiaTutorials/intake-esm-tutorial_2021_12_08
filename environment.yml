@@ -5,3 +5,4 @@ dependencies:
   - jupyter
   - jupyterlab
   - mamba
+  - intake-esm
