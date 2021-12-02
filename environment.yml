@@ -1,4 +1,4 @@
-name: pythia-tutorial_environment_template
+name: pythia-intake-esm-tutorial
 channels:
   - conda-forge
 dependencies:
@@ -6,3 +6,4 @@ dependencies:
   - jupyterlab
   - mamba
   - intake-esm
+  - xarray
