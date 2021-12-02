@@ -1,7 +1,7 @@
 ---
-author: [Max Grover]
-date: [2021-12-08]
-tags: [python-tutorial-series, data-access, xarray, intake]
+author: Max Grover
+date: 2021-12-08
+tags: python-tutorial-series, data-access, xarray, intake
 ---
 
 
@@ -30,7 +30,7 @@ You may also download the environment to run locally:
 
 - Check your conda install with `conda --version` and if necessary [install by following these instructions](https://docs.conda.io/en/latest/miniconda.html).
 
-- Clone this repository by running `git clone https://github.com/ProjectPythia/intake-esm-tutorial_2021_12_08` in your terminal.
+- Clone this repository by running `git clone https://github.com/ProjectPythiaTutorials/intake-esm-tutorial_2021_12_08` in your terminal.
 
 - Still in the terminal, create a Conda environment from the `environment.yml` file by first moving into the `intake-esm-tutorial_2021_12_08` directory with `cd intake-esm-tutorial_2021_12_08` and then `conda env update --file environment.yml`
 
