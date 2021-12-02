@@ -1,6 +1,6 @@
 ---
 author: [Max Grover]
-date: [2021-12-02]
+date: [2021-12-08]
 tags: [`python-tutorial-series`, `data-access`, `xarray`, `intake`]
 ---
 
