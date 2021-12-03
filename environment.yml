@@ -7,3 +7,8 @@ dependencies:
   - mamba
   - intake-esm
   - xarray
+  - dask
+  - distributed
+  - pip
+  - pip:
+    - s3fs
