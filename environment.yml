@@ -6,6 +6,7 @@ dependencies:
   - jupyterlab
   - mamba
   - intake-esm
+  - matplotlib
   - xarray
   - dask
   - distributed
