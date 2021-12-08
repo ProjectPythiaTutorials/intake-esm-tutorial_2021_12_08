@@ -11,6 +11,7 @@ dependencies:
   - dask
   - distributed
   - cftime
+  - nc-time-axis
   - pip
   - pip:
     - s3fs
