@@ -10,7 +10,7 @@ dependencies:
   - xarray
   - dask
   - distributed
-  - cf-time
+  - cftime
   - pip
   - pip:
     - s3fs
