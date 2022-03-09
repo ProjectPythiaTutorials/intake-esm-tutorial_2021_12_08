@@ -50,5 +50,4 @@ By attending this tutorial, you are subject to the [NCAR/UCAR Code of Conduct](h
 
 ## Tutorial Recording
 
-This tutorial will be recorded and posted on our [YouTube channel](https://www.youtube.com/channel/UCoZPBqJal5uKpO8ZiwzavCw).
-[Note: A Project Pythia team member will replace this section with the embedded video once it is ready.]
+[This session has been recorded on our Youtube channel.](https://youtu.be/pfdMbJMlYsw)
